@@ -8,7 +8,7 @@
   </head>
   
   <body>
-    <hr size="4" noshade>
+    <center><hr size="4" noshade></center>
   
     <table cellspacing="20">
       <tr>
@@ -20,7 +20,7 @@
       </tr>
     </table>
     
-    <hr size="4" noshade><br>
+    <center><hr size="4" noshade></center><br>
     
     <center><p><h2>Education : </h2></p><br>
     <ul>                      <!--This tag is used for an un-ordered list -->
