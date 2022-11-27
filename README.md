@@ -12,7 +12,7 @@
   
     <table cellspacing="20">
       <tr>
-        <td><a href="https://www.instagram.com/flute_buddy/"><img src="Profilepic.png" alt="Sayan profile picture" width="80%"></a></td>
+        <td width="40%"><a href="https://www.instagram.com/flute_buddy/"><img src="Profilepic.png" alt="Sayan profile picture" width="80%"></a></td>
         <td><h1>Sayan Das</h1>
             <p><strong><em> Computer Science</em></strong> undergrad.</p>
             <br>
