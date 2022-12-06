@@ -1,0 +1,202 @@
+body{
+    text-align: center;
+}
+
+div{
+    margin: 0 auto 0 auto;
+    text-align: center;
+    /* margin-left: 0.4%;
+    margin-right: 0.4%;
+     */
+}
+h1{
+    color: #497174 ;
+    display: inline-block;
+    font-size: 570%;
+    margin: 0 auto 20px auto;
+    font-family: 'Sacramento', cursive;
+    /* line-height: 4; */
+    /* font-family: 'Exo 2', sans-serif; */
+    text-shadow: #62b6ac 2px 3px 0px;
+    
+}
+h2{
+    color: #497174;
+    font-size: 2rem;
+    font-family: 'Montserrat',sans-serif;
+    font-weight: normal;
+    /* font-family: Ubuntu, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; */
+    /* font-family: 'Exo 2', sans-serif; */
+    margin: 0px auto 40px auto;
+    
+}
+
+p{
+    color: #62b6ac;
+    font-family: 'Montserrat',sans-serif;
+    /* font-family: 'Exo 2', sans-serif; */
+
+}
+
+h3{
+    color: #497174;
+    font-size: 1.7rem;
+    font-family: 'Montserrat',sans-serif;
+    font-weight: normal;
+    margin: 0 auto 0 auto;
+    text-align: left;
+    width: 50%;
+}
+hr{
+    height: 2px;
+    border-color: #ef7654;
+    background-color: #ef7654;
+}
+h4{
+    
+        color: #497174;
+        font-size: 1.5rem;
+        font-family: 'Montserrat',sans-serif;
+        font-weight: normal;
+        /* font-family: Ubuntu, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; */
+        /* font-family: 'Exo 2', sans-serif; */
+        margin: 0 auto 0 35%;
+        padding-top: 80px;
+        padding-bottom: 100px;
+        text-align: center;
+        
+    
+}
+
+.square{
+
+    height: 200px;
+    width: 200px;
+}
+
+.top-box{
+    background-color: #EFF5F5;
+    /* box-shadow: #555555 1px 1px 4px; */
+    margin-top: 2%;
+    padding-top: 150px;
+}
+
+.background{
+    display: inline-block;
+    width: 60rem;
+    margin-top: 60px;
+}
+.profile-pic{
+    display: inline-block;
+    position: relative;
+    margin-top: 30px;
+    width: 210px;
+}
+.giphy{
+    float: left;
+    width: 210px;
+    height: 210px;
+    margin-left: 28% ;
+}
+.video-heading{ /*For the video editing heading*/
+    padding-top: 40px;
+    margin-left: 35%;
+}
+.video-edit{ /*logo*/
+    float: right;
+    width: 205px;
+    height: 205px;
+    margin-right: 24%;
+    position: relative;
+    bottom: 215px;
+}
+
+.middle-box{
+    background-color: #f5fbfb;
+    /* background-color: #fff3f0; */
+    /* box-shadow: #555555 1px 1px 7px; */
+    text-align: center;
+}
+
+.bottom-box{
+    margin-top: 70px;
+    background-color: #ef7654;
+    text-align: center;
+}
+
+.greet{
+    font-weight: bold;
+    padding-top: 60px;
+    margin: 0 auto 0 auto;
+}
+.intro{
+    margin: 0 auto 0 auto;
+    width: 30%;
+    font-size: 1.5rem;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+.skills{ /*My skills heading*/
+    padding-top: 140px;
+    padding-bottom: 50px;
+    font-weight: bold;
+}
+.skill-description{
+    font-size: 1.2rem;
+    margin: 0 auto 0 auto;
+    text-align: left;
+    padding-top: 30px;
+    padding-bottom: 100px;
+    width: 30%;
+}
+.dotted{
+    border-color: #fdaa93;
+    background-color: #EFF5F5;
+    border-width: 6px 0 0 0;
+    border-style: dotted;
+    border-spacing: 0.5px;
+    position:relative;
+    margin-left: 50%;
+    width:10%;
+    
+}
+
+.btn {
+    margin: 0 auto 0 auto;
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    height: 40px;
+    border-radius: 8px;
+    font-family: 'Montserrat',sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 22px 20px 8px 20px;
+    text-decoration: none;
+    width: 10rem;
+  }
+  
+  .btn:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+  }
+  .logo{
+    color: #ffffff;
+    padding: 40px 20px 20px 0;
+    width: 3rem;
+  }
+  .conclusion{
+    color: #ffffff;
+    padding-bottom: 40px;
+  }
