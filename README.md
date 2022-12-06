@@ -43,7 +43,7 @@
     <br>
     
     <!-- <div class="bottom-box"> -->
-    <h2 class="skills">My skills.</h3>
+    <h2 class="skills">My skills.</h2>
 
     <iframe src="https://giphy.com/embed/juua9i2c2fA0AIp2iq" width="480" height="480" frameBorder="0" class="giphy" allowFullScreen></iframe>
     <h3>Web Design & Development</h3>
@@ -61,9 +61,6 @@
     <a href=""><form action="button" class="btn" method="">CONTACT ME</form></a>
     
     <br>
-    
-        
-    </div>
 
     <div class="bottom-box">
         <a href="https://twitter.com/Sayan67das"><img src="Images/twitter.png" class="logo" alt="twitter-logo"></a>
@@ -74,6 +71,5 @@
         <p class="conclusion">© 2018 Sayan Das @flute_buddy.</p>
     </div>
     
-</body>
-</html>
+
 
