@@ -1,53 +1,79 @@
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Sayan Das</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='css/styles.css'>
+    <link rel="icon" href="Images/fevicon ico.png">
+    <script src='main.js'></script>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Sacramento&display=swap');
+    </style>
+    <style> @import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Sacramento&display=swap'); </style>   
 
-<html lang="">
-  <head>
-    <meta charset="utf-8">
-    <title>Sayan's Personal Site</title>
-    <link rel="stylesheet" href="styles.css">
+    <!-- <style>
+        @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
+        @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Exo+2:ital,wght@1,600&display=swap');
+    </style> -->
+    
+</head>
+<body>
+    <div class="top-box">  <!--Content division tag-->
+        
+        <h1>I'm Sayan.</h1>
+        
+        <h2>a web developer.</h2> 
+        <img class="background" src="Images/mountain3.png" alt="half">
+        <hr noshade="">
+        <!-- <img class="programming" src="Images/programming.png" alt="background"> -->
+       
+    </div>
+    
+    <div class="middle-box">
+    <br>
 
-  </head>
-  
-  <body>
-    <center><hr size="4" noshade></center>
-  
-    <table cellspacing="20">
-      <tr>
-        <td width="40%"><a href="https://www.instagram.com/flute_buddy/"><img class="profilepic" src="Profilepic.png" alt="Sayan profile picture" width="80%"></a></td>
-        <td><h1>Sayan Das</h1>
-            <p><strong><em> Computer Science</em></strong> undergrad.</p>
-            <br>
-              <p>I am an undergrad in Computer Science at <a href="https://aot.edu.in/">Academy of Technology</a>, Westbengal. The niches in technology in which I am interested in includes AI-ML,Web Developement,Web Security techonlogies and Cloud Computing.</p></td>
-      </tr>
-    </table>
     
-    <center><hr size="4" noshade></center><br>
+        <center><img src="Images/profilepic.png" class="profile-pic" alt="profile pic"></center>
+        
+        <h2 class="greet">Hello.</h2>
+
+        <p class="intro">I am a web developer and competitive coder. I 🧡 music and I play flute.</p>
     
-    <center><p><h2>Education : </h2></p><br>
-    <ul>                      <!--This tag is used for an un-ordered list -->
-      <li>Primary schooling from <em>Khamarpara byamnagar primary school.</em></li><br>
-      <li>Secondary schooling from <em>Bandel St.john's high school.</em></li><br>
-      <li>Higher secondary schooling from <em>Bansberia high school.</em></li><br>
-    </ul>
+    <br>
     
-    <hr size="3" noshade><br>
-    <p><h2>Hobbies : </h2></p><br>
-    <ol>                      <!--This tag is used for an ordered list -->                    
-      <li><a href="https://www.instagram.com/reel/Ck5JH26jv_S/?utm_source=ig_web_copy_link">Playing flute.</a></li><br>
-      <li><a href="mynovel.html">Reding novels.</a></li><br>
-        <ol type="i">
-          <li>Fictions.</li><br>
-          <li>Romantic.</li><br>
-        </ol>
-      <li><a href="https://www.instagram.com/p/CYA9DukPMct/?utm_source=ig_web_copy_link">Photography.</a></li><br>
-      <li><a href="https://www.instagram.com/p/CVHpTowPm0a/?utm_source=ig_web_copy_link">Gardening.</a></li><br>
-      <li>Painting</li><br>
-    </ol>
-    <hr size="3" noshade><br>
-    <p><h3>Programming languages I know : <a href="proglang.html">Click Here</a></h3></p><br>
-    <p><h3>My contact details : <a href="contactdetails.html">Click Here</a></h3></p><br>
-  </center>  
-    <header></header>
-    <main></main>
-    <footer></footer>
-  </body>
+    <!-- <div class="bottom-box"> -->
+    <h2 class="skills">My skills.</h3>
+
+    <iframe src="https://giphy.com/embed/juua9i2c2fA0AIp2iq" width="480" height="480" frameBorder="0" class="giphy" allowFullScreen></iframe>
+    <h3>Web Design & Development</h3>
+        
+    <p class="skill-description">I am doing web development for a year or more. Gaining wealth of experince in every step.</p>
+        
+    
+    <h3 class="video-heading">Video editing</h3>
+        
+    <p class="skill-description video-edit-description">More than 2 years of experience in video editing(Premiere pro). Worked on many personal and non-paid projects.</p>
+        
+    <img src="Images/videoedit.png" class="video-edit" alt="video-edit">
+
+    <h4>Get In Touch :</h4>
+    <a href=""><form action="button" class="btn" method="">CONTACT ME</form></a>
+    
+    <br>
+    
+        
+    </div>
+
+    <div class="bottom-box">
+        <a href="https://twitter.com/Sayan67das"><img src="Images/twitter.png" class="logo" alt="twitter-logo"></a>
+        <a href="https://www.linkedin.com/in/sayan-das-435b1721a/"><img src="Images/linkedin.png" class="logo" alt="linkedin-logo"></a>
+
+        <a href="https://www.instagram.com/flute_buddy/"><img src="Images/instagram.png" class="logo" alt="instagram-logo"></a>
+        <a href="HTML/index.html"><img src="Images/linkchain.png" class="logo" alt="linkchain-logo"></a>
+        <p class="conclusion">© 2018 Sayan Das @flute_buddy.</p>
+    </div>
+    
+</body>
 </html>
+
