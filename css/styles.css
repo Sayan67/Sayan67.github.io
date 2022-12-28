@@ -172,14 +172,14 @@ h4{
     background-image: linear-gradient(to bottom, #11cdd4, #11999e);
     -webkit-border-radius: 8;
     -moz-border-radius: 8;
-    height: 40px;
+    height: 65px;
     border-radius: 8px;
     font-family: 'Montserrat',sans-serif;
     color: #ffffff;
     font-size: 20px;
     padding: 22px 20px 8px 20px;
     text-decoration: none;
-    width: 10rem;
+    width: 12rem;
   }
   
   .btn:hover {
