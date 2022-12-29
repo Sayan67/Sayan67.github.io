@@ -83,11 +83,13 @@ h4{
 }
 
 .background{
+    background-color:none !important;
     display: inline-block;
     width: 60rem;
     margin-top: 60px;
 }
 .profile-pic{
+    background-color:none !important;
     display: inline-block;
     position: relative;
     margin-top: 30px;
@@ -104,6 +106,7 @@ h4{
     margin-left: 35%;
 }
 .video-edit{ /*logo*/
+    background-color:none !important;
     float: right;
     width: 205px;
     height: 205px;
