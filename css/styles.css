@@ -193,7 +193,7 @@ h4{
   }
   .logo{
       appearance: none;
-      background-color:#ef7654;
+      background-color:#ef7654 !important;
       margin:20px;
     padding: 40px 20px 20px 0;
     width: 3rem;
